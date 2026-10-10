@@ -1,0 +1,4 @@
+interface:
+  display_name: "慵懒男生 IP 六格文章配图"
+  short_description: "把文章一次生成成统一画布中的六格插画"
+  default_prompt: "Use $lazy-ip-article-illustrations 为下面这篇文章规划并生成一张六格整版配图。严格固定我的慵懒男生 IP，使用白底、黑色手绘线稿、灰阶铺色和少量橙黄色点缀。默认 3 列×2 行，只进行一次图像生成。"
